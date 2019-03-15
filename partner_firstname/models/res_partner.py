@@ -18,7 +18,7 @@ class ResPartner(models.Model):
         index=True,
     )
     lastname = fields.Char(
-        "Last name",
+        "Surname",
         index=True,
     )
     name = fields.Char(
