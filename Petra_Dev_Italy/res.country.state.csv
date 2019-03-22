@@ -1,6 +1,6 @@
-id,name
-it.state1,Milano
-it.state2,Torino
-it.state3,Napoli
-it.state4,Roma
-it.state5,Padova
+id,name,country_id/id
+it.state1,Milano,base.it
+it.state2,Torino,base.it
+it.state3,Napoli,base.it
+it.state4,Roma,base.it
+it.state5,Padova,base.it
